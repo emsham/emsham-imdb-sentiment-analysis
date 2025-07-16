@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# emsham-imdb-sentiment-analysis
-=======
 # Sentiment Analysis using TF-IDF and Logistic Regression
 
 A comprehensive implementation of sentiment analysis on movie reviews using TF-IDF (Term Frequency-Inverse Document Frequency) feature extraction and custom Logistic Regression with MAP (Maximum A Posteriori) estimation.
@@ -105,4 +102,3 @@ This project was completed as part of Columbia University's "Probabilistic Model
 ## License
 
 This project is available for educational purposes. Please cite appropriately if used in academic work.
->>>>>>> 2b49903 (initial commit)
