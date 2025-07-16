@@ -22,11 +22,10 @@ This project demonstrates fundamental machine learning concepts through a practi
 ## Project Structure
 
 ```
-├── Homework 1.ipynb          # Main implementation notebook
-├── HW1_data/                 # Dataset directory
+├── notebook.ipynb          # Main implementation notebook
+├── data/                 # Dataset directory
 │   └── IMDB Dataset.csv      # IMDB movie reviews dataset
 ├── docs/                     # Documentation and reports
-│   ├── HW1.pdf              # Original assignment
 │   ├── Reader Report.pdf    # Detailed analysis report
 │   └── Reader Report.tex    # LaTeX source
 ├── images/                   # Generated visualizations
