@@ -59,7 +59,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-2. Open `Homework 1.ipynb` and run all cells to reproduce the analysis
+2. Open `notebook.ipynb` and run all cells to reproduce the analysis
 
 ## Implementation Details
 
